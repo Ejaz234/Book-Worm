@@ -21,7 +21,7 @@ BookWorm is a full-stack mobile app built with React Native (Expo) and Node.js +
 
 🚪 Logout & persistent login handling
 
-
+![image alt](https://github.com/Ejaz234/Book-Worm/blob/88fa84c0ad669d3e7496ef548fa544ae10f8cec4/Screenshot%202025-12-31%20141921.png)
 
 ## Setup
 
